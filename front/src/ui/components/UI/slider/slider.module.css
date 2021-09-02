@@ -1,0 +1,44 @@
+.slider{
+    width: 336px;
+    height: 15px;
+
+    margin: 50px auto auto;
+
+    background: rgba(136, 76, 76, 0.5);
+    border-radius: 25px;
+}
+
+.back_slider{
+    width: 336px;
+    height: 15px;
+
+    margin: 50px auto auto;
+
+    background: #DA9393;
+    border-radius: 25px;
+}
+
+.circle{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    border-radius: 50px;
+    top:40%;
+    left:3%;
+    transform: translate(0,-30%);
+
+    background: #DA9393;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.count{
+    margin: 25px 5px 15px;
+
+    color: #ffffff;
+    font-family: Alegreya, serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+}

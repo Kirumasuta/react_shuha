@@ -1,0 +1,26 @@
+.button{
+    /*Positioning*/
+    z-index: 3;
+    position: relative;
+    justify-content: center;
+    display: block;
+
+    /*Button*/
+    margin: 20px auto 20px auto;
+    width: 300px;
+    height: 75px;
+    background-color: #B54A4A;
+    border-radius: 5px 5px 5px 5px;
+    outline: none;
+    border: 0;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+    /*Text inside*/
+    color: #ffffff;
+    font-family: Alegreya, serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+}

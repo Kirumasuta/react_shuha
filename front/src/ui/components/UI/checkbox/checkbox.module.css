@@ -1,0 +1,25 @@
+.checkbox {
+    z-index: 15;
+    margin: 15px;
+
+    width: 20px;
+    height: 20px;
+
+    background: #884C4C;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 2px;
+    opacity: 1;
+}
+
+.checkbox_label{
+    color: #ffffff;
+    font-family: Alegreya, serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+}
+
+
